@@ -57,4 +57,4 @@
 ![foto](foto2/f.png)
 ![foto](foto2/ff.png)
 
-- deklarasi dengan idnya memberikan warna merah dan deklarasi dengan classnya memberikan warna biru. karena deklarasi dengan ID memiliki prioritas yang lebih tinggi maka akan memberikan warna merah
+- deklarasi dengan ID memberikan warna merah dan deklarasi dengan Class memberikan warna biru. karena deklarasi dengan ID memiliki prioritas yang lebih tinggi maka akan memberikan warna merah
