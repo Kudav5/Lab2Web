@@ -38,3 +38,12 @@ nav a:hover {
 .btn-primary {
     background: #E42A42;
 }
+
+#judul h1 {
+    background-color: #099249;
+    background: #0B6B3A;
+}
+
+body {
+    background-color: lightblue;
+}
