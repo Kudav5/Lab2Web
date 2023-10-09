@@ -19,11 +19,14 @@ nav a:hover {
     border: 1px solid #099249;
     min-height: 100px;
     padding: 10px;
+    
 }
 #intro h1 {
     text-align: left;
     border: 0;
     color: #fff;
+    
+    background-color: black;
 }
 
 /* Class Selector */
@@ -47,3 +50,12 @@ nav a:hover {
 body {
     background-color: lightblue;
 }
+
+#paragraf-1 {
+    color: red;
+  }
+  
+  .text-paragraf {
+    color: blue;
+  }
+  
